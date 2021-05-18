@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+main()
+{
+    printf("yoooo");
+    printf("I've no idea what I'm doing");
+    return 0;
+}
